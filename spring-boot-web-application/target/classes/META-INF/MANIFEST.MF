@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: maltirana
+Build-Jdk: 17
+Implementation-Title: student-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bankstatement.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/bank-services
+ -security
+Created-By: Maven Integration for Eclipse
+
